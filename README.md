@@ -29,7 +29,7 @@ Résultat :
 ## 2. Nombres de Fibonacci (séquence entière)
 ### `get_fibonacci_sequence`
 
-Écrivez une fonction qui retourne la séquence de Fibonacci d'une taille donnée (donc taille 2 veut dire 2 éléments). Faites le tout en une seule instruction `return` (donc nécessairement de façon récursive). N'utilisez pas la fonction du numéro 1 pour générer les nombres
+Écrivez une fonction qui retourne la séquence de Fibonacci d'une taille donnée (donc taille 2 veut dire 2 éléments). N'utilisez pas la fonction du numéro 1 pour générer les nombres
 
 Exemple :
 ```python
