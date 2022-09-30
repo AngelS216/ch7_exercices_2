@@ -1,4 +1,4 @@
-# Exercices en vrac (chapitre 7.1)
+# Exercices en vrac (chapitre 7)
 
 Avant de commencer. Consulter les instructions à suivre dans [instructions.md](instructions.md)
 
