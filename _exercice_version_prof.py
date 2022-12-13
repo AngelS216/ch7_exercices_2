@@ -15,7 +15,7 @@ def get_fibonacci_number(index):
 	return (
 		0 if index == 0 else
 		1 if index == 1 else
-		get_fibonacci_number(index - 1) + get_fibonacci_number(index - 2)
+		get_fibonacci_number(index - 1) + get_fibonacci_number(index - 2) #On va appeler la fct elle-même jusqu'à quand index -1 et index -2 donne 1 ou 0
 	)
 
 def get_fibonacci_sequence(length):
